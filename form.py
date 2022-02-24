@@ -1,4 +1,4 @@
-#!C:\Users\v-bhjoshi\AppData\Local\Microsoft\WindowsApps\python
+$ git clone https://github.com/suchiagarwal/UM
 print("Content-type:text/html\r\n\r\n")
 print ('<html>')
 print ('<head>')
